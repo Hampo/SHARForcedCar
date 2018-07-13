@@ -86,7 +86,7 @@ CarPool = {
 	"wiggu_v",
 	"willi_v",
 	"witchcar",
-	"zombi_v",
+	"zombi_v"
 }
 
 CarChoice = GetSetting("Vehicle") + 1
